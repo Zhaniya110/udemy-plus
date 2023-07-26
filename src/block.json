@@ -4,12 +4,13 @@
     "name": "udemy-plus/fancy-header",
     "title": "Fancy header",
     "category":"text",
-    "icon": "dashicons-welcome-write-blog",
+    "icon": "welcome-write-blog",
     "description": "Header with hover effects",
     "keywords": ["header","fancy"],
     "textdomain": "udemy-plus",
     "version": "1",
-    "editorScript":"file: ./index.js",
-    "script":"",
-    "viewScript":""
+    "editorScript": "file:./index.js",
+    "viewScript": "file:./view.js",
+    "style": "file:./style-index.css"
+
 }
